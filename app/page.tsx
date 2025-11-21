@@ -4,27 +4,35 @@ export default function Home() {
   return (
     <main className="container">
       <div className="content">
-        <h1 className="title">Welcome to My Portfolio !!!</h1>
-        <p className="subtitle">I'm a developer passionate about creating amazing experiences</p>
+        <h1 className="title">Marie Songer</h1>
+        <p className="subtitle">Hospitality Professional with Extensive Hotel Experience</p>
         
         <div className="section">
           <h2>About Me</h2>
           <p>
-            Welcome to my portfolio! I'm a developer who loves building 
-            beautiful and functional web applications. This site showcases 
-            my work and interests.
+            Welcome to my portfolio! I'm Marie Songer, a dedicated hospitality 
+            professional with extensive experience in the hotel industry. Throughout 
+            my career, I've had the privilege of working in various roles that have 
+            allowed me to develop a deep understanding of guest services, operations, 
+            and the art of creating memorable experiences for travelers.
+          </p>
+          <p>
+            My hotel experience spans multiple departments including front desk operations, 
+            guest relations, event coordination, and team management. I'm passionate about 
+            delivering exceptional service and ensuring every guest feels valued and 
+            welcomed during their stay.
           </p>
         </div>
 
         <div className="section">
-          <h2>Skills</h2>
+          <h2>Skills & Expertise</h2>
           <div className="skills">
-            <span className="skill-tag">React</span>
-            <span className="skill-tag">Next.js</span>
-            <span className="skill-tag">TypeScript</span>
-            <span className="skill-tag">JavaScript</span>
-            <span className="skill-tag">CSS</span>
-            <span className="skill-tag">HTML</span>
+            <span className="skill-tag">Guest Services</span>
+            <span className="skill-tag">Front Desk Operations</span>
+            <span className="skill-tag">Event Coordination</span>
+            <span className="skill-tag">Team Leadership</span>
+            <span className="skill-tag">Customer Relations</span>
+            <span className="skill-tag">Hospitality Management</span>
           </div>
         </div>
 
